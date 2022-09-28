@@ -32,6 +32,7 @@ Y estas son las tegnologias que estoy usando actualmente.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
-## Mi Linkedin
+## Contacto
 
+Correo electrónico: malg20012002@gmail.com
 <a  href="https://www.linkedin.com/in/miguel-linares-gamez/">perfil de Linkedin</a>
