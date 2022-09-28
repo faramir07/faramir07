@@ -34,5 +34,5 @@ Y estas son las tegnologias que estoy usando actualmente.
 
 ## Contacto
 
-Correo electrónico: malg20012002@gmail.com
-<a  href="https://www.linkedin.com/in/miguel-linares-gamez/">perfil de Linkedin</a>
+- Correo electrónico: malg20012002@gmail.com.
+- <a  href="https://www.linkedin.com/in/miguel-linares-gamez/">perfil de Linkedin</a>
