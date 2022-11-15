@@ -34,6 +34,9 @@ Y estas son las tegnologias que estoy usando actualmente.
   <img src="https://www.svgrepo.com/show/354333/sequelize.svg" alt="sequelize" width="40" height="40"/>
 </p>
 
+![faramir07 GitHub stats](https://github-readme-stats.vercel.app/api?username=faramir07&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faramir07&layout=compact)](https://github.com/faramir07/github-readme-stats)
+
 ## Contacto
 
 - Correo electrónico: malg20012002@gmail.com.
