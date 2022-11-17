@@ -1,11 +1,13 @@
 
 # Hola, Soy Miguel Linares! 👋
 
-# Soy Full Stack Developer.
+# 🚀 Soy Full Stack Developer.
     
 Soy una persona al que le gusta trabajar en equipo en un ambiente divertido, pero a la vez productivo y retador, soy autodidacta, organizado, empático.
 Actualmente, estoy buscando trabajar en un puesto en el cual pueda poner a prueba mis conocimientos y aptitudes.
 
+
+## 🛠 Skills
 Y estas son las tegnologias que estoy usando actualmente.
 
 <p align="left">
