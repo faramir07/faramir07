@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">Top languages placeholder</title>
+  <desc id="desc">This placeholder will be replaced by the GitHub Actions workflow after the first run.</desc>
+  <rect width="495" height="195" rx="12" fill="#0d1117" />
+  <rect x="1" y="1" width="493" height="193" rx="11" fill="none" stroke="#30363d" />
+  <text x="24" y="54" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
+    Top Languages
+  </text>
+  <text x="24" y="94" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="16">
+    This card will be generated automatically
+  </text>
+  <text x="24" y="120" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="16">
+    after the README workflow runs on GitHub.
+  </text>
+</svg>

@@ -1,45 +1,39 @@
 
-# Hola, Soy Miguel Linares! 👋
+[Español](README.es.md) | **English**
 
-# 🚀 Soy Full Stack Developer.
-    
-Soy una persona al que le gusta trabajar en equipo en un ambiente divertido, pero a la vez productivo y retador, soy autodidacta, organizado, empático.
-Actualmente, estoy buscando trabajar en un puesto en el cual pueda poner a prueba mis conocimientos y aptitudes.
+<h1 align="center">Hi, I'm Miguel Linares</h1>
 
-
-## 🛠 Skills
-Y estas son las tegnologias que estoy usando actualmente.
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-
-  <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="reactnative" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/480px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    
-  <img src="https://www.svgrepo.com/show/354333/sequelize.svg" alt="sequelize" width="40" height="40"/>
+<p align="center">
+  Full Stack Developer focused on building modern web applications and cloud-ready solutions.
 </p>
 
-![faramir07 GitHub stats](https://github-readme-stats.vercel.app/api?username=faramir07&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faramir07&layout=compact)](https://github.com/faramir07/github-readme-stats)
+<p align="center">
+  <a href="mailto:malg20012002@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/miguel-linares-gamez/">LinkedIn</a>
+</p>
 
-## Contacto
+<p align="center">
+  <img src="https://algora.io/og/user/faramir07" alt="Algora profile preview for faramir07" width="720" />
+</p>
 
-- Correo electrónico: malg20012002@gmail.com.
-- <a  href="https://www.linkedin.com/in/miguel-linares-gamez/">perfil de Linkedin</a>
+## About Me
+
+- I build web applications with React, Node.js, NestJS, PostgreSQL, and TypeScript.
+- I enjoy collaborative teams, clean architecture, and continuous learning.
+- I am currently open to opportunities where I can continue growing as a full stack developer.
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,nestjs,postgres,sequelize,aws,azure&perline=7)](https://skillicons.dev)
+
+## GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="Miguel's GitHub stats" />
+  <img src="./profile/top-langs.svg" alt="Top languages used by Miguel" />
+</p>
+
+## Contact
+
+- Email: `malg20012002@gmail.com`
+- LinkedIn: <a href="https://www.linkedin.com/in/miguel-linares-gamez/">miguel-linares-gamez</a>
